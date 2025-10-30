@@ -4,7 +4,7 @@ import { TaskForm } from './components/TaskForm';
 import { TaskCard } from './components/TaskCard';
 import { TaskFilters } from './components/TaskFilters';
 import { EmptyState } from './components/EmptyState';
-import { LoadingSpinner } from './components/LoadingSpinner';
+
 import { SkeletonCard } from './components/SkeletonCard';
 import { Toast } from './components/Toast';
 import { ConfirmDialog } from './components/ConfirmDialog';
