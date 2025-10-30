@@ -5,7 +5,6 @@ import { TaskCard } from './components/TaskCard';
 import { TaskFilters } from './components/TaskFilters';
 import { EmptyState } from './components/EmptyState';
 import { LoadingSpinner } from './components/LoadingSpinner';
-import { Task } from './types/Task';
 import { CheckSquare, AlertCircle } from 'lucide-react';
 
 function App() {
